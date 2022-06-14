@@ -1,4 +1,20 @@
-# Sample Snack app
+# Demonstrando Botões
+## A Importância de Doar Sangue
+
+![image](https://user-images.githubusercontent.com/93789218/173670478-e70a101e-b504-4e0c-aedc-36ef555023e2.png)
+
+###Conhecimentos
+
+- React-native
+  - Image
+  - Componentes
+  - StyleSheet
+  - TouchableOpacity
+  - Alert
+
+
+
+### Ambiente de Desenvolvimento: Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
